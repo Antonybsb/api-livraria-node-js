@@ -13,7 +13,8 @@ Projeto utilizado no curso da Alura
 3. [Tópicos da primeira parte da formação](#topicos-da-primeira-parte-da-formacao)
 4. [Tópicos da segunda parte da formação](#topicos-da-segunda-parte-da-formacao)
 5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-6. [Agradecimentos](#Agradecimentos)
+6. [Teste](#teste)
+7. [Agradecimentos](#Agradecimentos)
 
 ## O que eu aprendi ao desenvolver essa API?
 Ao desenvolver essa API, eu aprendi mais sobre APIs, sua importância e o papel das APIs no desenvolvimento web.
@@ -125,6 +126,8 @@ Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvol
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+# Teste
 
 ## Agradecimentos
 # Olá! 🎉
