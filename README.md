@@ -10,8 +10,8 @@ Projeto utilizado no curso da Alura
 ## Índice
 1. [O que eu aprendi ao desenvolver essa API?](#o-que-eu-aprendi)
 2. [Motivação](#motivação)
-3. [Primeira parte da formação](#primeira-parte-da-formacao)
-4. [Segunda parte da formação](#segunda-parte-da-formacao)
+3. [Primeira parte da formacao](#primeira-parte-da-formacao)
+4. [Segunda parte da formacao](#segunda-parte-da-formacao)
 5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 6. [Agradecimentos](#Agradecimentos)
 
