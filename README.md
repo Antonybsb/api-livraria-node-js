@@ -10,8 +10,8 @@ Projeto utilizado no curso da Alura
 ## Índice
 1. [O que eu aprendi ao desenvolver essa API?](#o-que-eu-aprendi)
 2. [Motivação](#motivação)
-3. [Tópicos da primeira parte da formação](#topicos-da-primeira-parte-da-formacao)
-4. [Tópicos da segunda parte da formação](#topicos-da-segunda-parte-da-formacao)
+3. [Primeira parte](#primeira-parte)
+4. [Segunda parte](#segunda-parte)
 5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 6. [Teste](#teste)
 7. [Agradecimentos](#Agradecimentos)
@@ -25,7 +25,7 @@ Apendi mais sobre algumas partes principais de uma API REST, como, por exemplo, 
 ## Motivação
 Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvolver na área da programação. Acredito que, ao investir tempo e esforço no estudo contínuo, poderei evoluir minhas habilidades técnicas e contribuir de forma significativa para projetos desafiadores e inovadores.
 
-## Tópicos da primeira parte da formação
+## Primeira parte
 ### 01 - Criando o projeto com Node.js
 #### Neste tópico eu aprendi:
 - O que são APIs, seus diferentes tipos, para que são utilizadas e como vai funcionar a API no contexto do nosso produto.
@@ -51,7 +51,7 @@ Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvol
 - Como funciona o relacionamento em um banco de objetos como MongoDB utilizando o modelo de embedding;
 - Como realizar buscas em API via parâmetros de query.
 
-## Tópicos da segunda parte da formação
+## Segunda parte
 ### 01 - Deixando a API resiliente
 #### Neste tópico eu aprendi:
 - Proteger informações sensíveis com o dotenv
