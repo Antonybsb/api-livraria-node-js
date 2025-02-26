@@ -24,7 +24,7 @@ Apendi mais sobre algumas partes principais de uma API REST, como, por exemplo, 
 ## Motivação
 Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvolver na área da programação. Acredito que, ao investir tempo e esforço no estudo contínuo, poderei evoluir minhas habilidades técnicas e contribuir de forma significativa para projetos desafiadores e inovadores.
 
-## Primeira parte da formação
+## Primeira parte da formacao
 ### 01 - Criando o projeto com Node.js
 #### Neste tópico eu aprendi:
 - O que são APIs, seus diferentes tipos, para que são utilizadas e como vai funcionar a API no contexto do nosso produto.
@@ -50,7 +50,7 @@ Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvol
 - Como funciona o relacionamento em um banco de objetos como MongoDB utilizando o modelo de embedding;
 - Como realizar buscas em API via parâmetros de query.
 
-## Segunda parte da formação
+## Segunda parte da formacao
 ### 01 - Deixando a API resiliente
 #### Neste tópico eu aprendi:
 - Proteger informações sensíveis com o dotenv
