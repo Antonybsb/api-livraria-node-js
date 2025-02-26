@@ -10,8 +10,8 @@ Projeto utilizado no curso da Alura
 ## Índice
 1. [O que eu aprendi ao desenvolver essa API?](#o-que-eu-aprendi)
 2. [Motivação](#motivação)
-3. [Tópicos abordados na primeira parte da formação](#topicos-abordados-na-primeira-parte-da-formacao)
-4. [Tópicos abordados na segunda parte da formação (Lidando com buscas, filtros, paginação e erros em uma API)](#topicos-abordados-na-segunda-parte-da-formação)
+3. [Tópicos da primeira parte da formação](#topicos-da-primeira-parte-da-formacao)
+4. [Tópicos da segunda parte da formação](#topicos-da-segunda-parte-da-formacao)
 5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 6. [Agradecimentos](#Agradecimentos)
 
@@ -24,7 +24,7 @@ Apendi mais sobre algumas partes principais de uma API REST, como, por exemplo, 
 ## Motivação
 Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvolver na área da programação. Acredito que, ao investir tempo e esforço no estudo contínuo, poderei evoluir minhas habilidades técnicas e contribuir de forma significativa para projetos desafiadores e inovadores.
 
-## Tópicos abordados na primeira parte da formação
+## Tópicos da primeira parte da formação
 ### 01 - Criando o projeto com Node.js
 #### Neste tópico eu aprendi:
 - O que são APIs, seus diferentes tipos, para que são utilizadas e como vai funcionar a API no contexto do nosso produto.
@@ -50,7 +50,7 @@ Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvol
 - Como funciona o relacionamento em um banco de objetos como MongoDB utilizando o modelo de embedding;
 - Como realizar buscas em API via parâmetros de query.
 
-## Tópicos abordados na segunda parte da formação (Lidando com buscas, filtros, paginação e erros em uma API)
+## Tópicos da segunda parte da formação
 ### 01 - Deixando a API resiliente
 #### Neste tópico eu aprendi:
 - Proteger informações sensíveis com o dotenv
@@ -131,4 +131,4 @@ Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvol
 
 ### **Muito obrigado por visitar e utilizar este repositório**
 
-### Fico extremamente feliz em saber que ele foi útil para você ou que você gostou do conteúdo aqui disponível. Se este projeto te ajudou de alguma forma ou se você achou interessante, por favor, considere dar uma estrela ⭐️ ao repositório. Seu apoio é muito importante e me motiva a continuar melhorando e criando mais conteúdos úteis para a comunidade. Agradeço imensamente pela colaboração e pelo tempo dedicado. Se tiver qualquer dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato. Adoraria ouvir o seu feedback!
+### Fico extremamente feliz em saber que ele foi útil para você ou que você gostou do conteúdo aqui disponível. Se este projeto te ajudou de alguma forma ou se você achou interessante, por favor, considere dar uma ⭐️ ao repositório. Seu apoio é muito importante e me motiva a continuar melhorando e criando mais conteúdos úteis para a comunidade. Agradeço imensamente pela colaboração e pelo tempo dedicado. Se tiver qualquer dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato. Adoraria ouvir o seu feedback!
