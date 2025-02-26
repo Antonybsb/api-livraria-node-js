@@ -10,11 +10,10 @@ Projeto utilizado no curso da Alura
 ## Índice
 1. [O que eu aprendi ao desenvolver essa API?](#o-que-eu-aprendi)
 2. [Motivação](#motivação)
-3. [Primeira parte](#primeira-parte)
-4. [Segunda parte](#segunda-parte)
+3. [Primeira parte da formação](#primeira-parte-da-formacao)
+4. [Segunda parte da formação](#segunda-parte-da-formacao)
 5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-6. [Teste](#teste)
-7. [Agradecimentos](#Agradecimentos)
+6. [Agradecimentos](#Agradecimentos)
 
 ## O que eu aprendi ao desenvolver essa API?
 Ao desenvolver essa API, eu aprendi mais sobre APIs, sua importância e o papel das APIs no desenvolvimento web.
@@ -25,7 +24,7 @@ Apendi mais sobre algumas partes principais de uma API REST, como, por exemplo, 
 ## Motivação
 Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvolver na área da programação. Acredito que, ao investir tempo e esforço no estudo contínuo, poderei evoluir minhas habilidades técnicas e contribuir de forma significativa para projetos desafiadores e inovadores.
 
-## Primeira parte
+## Primeira parte da formação
 ### 01 - Criando o projeto com Node.js
 #### Neste tópico eu aprendi:
 - O que são APIs, seus diferentes tipos, para que são utilizadas e como vai funcionar a API no contexto do nosso produto.
@@ -51,7 +50,7 @@ Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvol
 - Como funciona o relacionamento em um banco de objetos como MongoDB utilizando o modelo de embedding;
 - Como realizar buscas em API via parâmetros de query.
 
-## Segunda parte
+## Primeira parte da formação
 ### 01 - Deixando a API resiliente
 #### Neste tópico eu aprendi:
 - Proteger informações sensíveis com o dotenv
@@ -127,7 +126,6 @@ Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvol
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-# Teste
 
 ## Agradecimentos
 # Olá! 🎉
