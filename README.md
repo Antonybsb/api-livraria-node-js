@@ -10,7 +10,7 @@ Projeto utilizado no curso da Alura
 ## Índice
 1. [O que eu aprendi ao desenvolver essa API?](#o-que-eu-aprendi)
 2. [Motivação](#motivação)
-3. [Tópicos abordados na primeira parte da formação](#topicos-abordados-na-primeira-parte-da-formacao-criando-uma-api-rest-com-express-e-mongodb)
+3. [Tópicos abordados na primeira parte da formação](#topicos-abordados-na-primeira-parte-da-formacao)
 4. [Tópicos abordados na segunda parte da formação (Lidando com buscas, filtros, paginação e erros em uma API)](#topicos-abordados-na-segunda-parte-da-formação)
 5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 6. [Agradecimentos](#Agradecimentos)
